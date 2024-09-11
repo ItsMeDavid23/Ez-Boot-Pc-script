@@ -1,0 +1,3 @@
+﻿Index	SourceFilename	TimeStamp	Version	SHA1Sum	OriginalSize	FirstSlice	LastSlice	StartOffset	ChunkSuboffset	ChunkCompressedSize	Encrypted
+0	C:\Users\David\Desktop\Script\dist\EZBoot.exe	2024-07-03 12:19:08.000		96b401ce844bf7ae2f53c040585926dfc9b7f552	12441777	1	1	0	0	12209518	no
+1	C:\Users\David\Desktop\Script\create_task.ps1	2024-09-11 12:02:26.000		b7f773e6cd738988a76bbc66bc53d042d4796e39	1199	1	1	0	12441777	12209518	no
